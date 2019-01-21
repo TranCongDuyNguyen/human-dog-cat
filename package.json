@@ -1,0 +1,14 @@
+{
+  "name": "git2",
+  "version": "1.0.0",
+  "description": "This is the second git test",
+  "main": "human.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
