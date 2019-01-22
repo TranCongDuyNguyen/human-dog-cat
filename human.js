@@ -8,3 +8,6 @@ function sleep(){
 }
 var Tom = new Cat('Tom');
 Tom.greet();
+function study(){
+	console.log('study hard!');
+}
