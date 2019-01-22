@@ -8,3 +8,6 @@ function sleep(){
 }
 var Tom = new Cat('Tom');
 Tom.greet();
+function train(){
+	console.log('make Tom says meomeo');
+}
